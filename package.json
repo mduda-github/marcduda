@@ -1,0 +1,12 @@
+{
+  "name": "marcduda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mduda-github/marcduda.git",
+  "author": "Marcin Duda <marc.duda94@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
