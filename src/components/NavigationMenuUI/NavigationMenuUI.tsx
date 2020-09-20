@@ -29,7 +29,6 @@ const NavItem = styled.a`
     &:last-of-type {
         margin-right: 15px;
     }
-    // border: 1px solid red;
     &:hover {
         &:before {
             content: "";
