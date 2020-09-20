@@ -1,6 +1,5 @@
 import React from 'react';
-
-import { HeaderUI } from './HeaderUI';
+import { HeaderUI } from './';
 
 export default {
   title: 'UI/HeaderUI',
